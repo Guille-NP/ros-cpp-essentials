@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="action_server_ej913_pkg" type="drone_square_action_server" name="drone_square_move"  output="screen">
+    </node>
+</launch>

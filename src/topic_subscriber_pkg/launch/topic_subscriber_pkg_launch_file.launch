@@ -1,0 +1,6 @@
+<launch>
+  <node pkg="topic_subscriber_pkg" type="simple_topic_subscriber" name="odom_sub_node"  output="screen">
+  </node>
+  <node pkg="topic_subscriber_pkg" type="age_publisher" name="age_publisher_node"  output="screen">
+  </node>
+</launch>

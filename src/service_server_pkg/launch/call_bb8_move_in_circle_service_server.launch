@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="service_server_pkg" type="bb8_move_in_circle_service_client" name="bb8_move_in_circle_service_client"  output="screen">
+  </node>
+</launch>

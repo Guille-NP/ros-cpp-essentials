@@ -1,0 +1,9 @@
+<launch>
+  <!-- Ejercicio 3.1 -->
+  <!--
+  <node pkg="topic_publisher_pkg" type="simple_topic_publisher" name="Counter"  output="screen">
+  -->
+  <!-- Ejercicio 3.2 -->
+  <node pkg="topic_publisher_pkg" type="simple_topic_publisher" name="topic_publisher"  output="screen">
+  </node>
+</launch>

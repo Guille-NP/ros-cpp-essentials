@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="actions_quiz" type="actions_quiz_server" name="actions_quiz_server"  output="screen">
+    </node>
+</launch>

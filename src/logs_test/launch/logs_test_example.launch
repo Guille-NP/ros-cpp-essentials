@@ -1,0 +1,4 @@
+<launch>
+  <node pkg="logs_test" type="logger_example" name="logger_example"  output="screen">
+  </node>
+</launch>
